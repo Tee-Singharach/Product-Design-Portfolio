@@ -20,6 +20,18 @@
 
 
 
+# 01 — About Me
+
+
+
+สวัสดีครับ ผมชื่อ **สิงหราช งาสีแดง (ตี๋)** ทำงานในสาย **Business Analyst** และ **Frontend Programmer** แบบ **Freelance** — โฟกัสที่การเข้าใจโจทย์ธุรกิจก่อน แล้วนำไปพัฒนาเป็นเว็บแอปที่ใช้งานได้จริง
+
+
+
+ชอบงานที่ต้องคิดทั้งฝั่งวิเคราะห์และฝั่ง dev ใช้เครื่องมือ AI ช่วยทำงานให้เร็วและแม่นขึ้น และมีความสนใจด้านภาพ/วิดีโอเป็นงานอดิเรก (ถ่ายรูป แต่งภาพ ตัดต่อ)
+
+
+
 ## ข้อมูลส่วนตัว
 
 
@@ -44,87 +56,7 @@
 
 
 
----
-
-
-
-# สายงาน (What I Do)
-
-
-
-ทำงาน 2 บทบาทที่เชื่อมกัน — เริ่มจากเข้าใจธุรกิจและผู้ใช้ แล้วลงมือพัฒนาเว็บให้ตรงโจทย์
-
-
-
-### ขั้นตอนการทำงาน
-
-
-
-1. **วิเคราะห์** — เก็บ requirement เข้าใจ business process และความต้องการของผู้ใช้งาน
-
-2. **ออกแบบ** — สร้าง user flow, workflow และ wireframe ให้ทีมเห็นภาพเดียวกัน
-
-3. **พัฒนา** — เขียน Frontend ด้วย HTML, CSS, JavaScript, React และ Next.js ให้ใช้งานได้จริง
-
-
-
-### Business Analyst
-
-
-
-- Requirement Analysis & Documentation
-
-- Business Process & Workflow Design
-
-- Wireframe & User Flow (Figma)
-
-- สื่อสารกับ stakeholder และทีมพัฒนา
-
-
-
-### จุดเด่น
-
-
-
-ทำได้ทั้งวิเคราะห์และลงมือ dev — แปลความต้องการทางธุรกิจให้เป็นหน้าจอที่ใช้งานได้ ลดช่องว่างระหว่าง BA กับ Developer
-
-
-
-### Frontend Programmer
-
-
-
-- พัฒนา UI ตาม requirement ที่วิเคราะห์
-
-- HTML, CSS, JavaScript, TypeScript
-
-- React, Next.js, Prisma, MySQL
-
-- Responsive & ใช้งานได้จริงบนเว็บ
-
-
-
----
-
-
-
-# About Me
-
-
-
-สวัสดีครับ ผมชื่อ **สิงหราช งาสีแดง (ตี๋)** ทำงานในสาย **Business Analyst** และ **Frontend Programmer** แบบ **Freelance** — โฟกัสที่การเข้าใจโจทย์ธุรกิจก่อน แล้วนำไปพัฒนาเป็นเว็บแอปที่ใช้งานได้จริง
-
-
-
-ชอบงานที่ต้องคิดทั้งฝั่งวิเคราะห์และฝั่ง dev ใช้เครื่องมือ AI ช่วยทำงานให้เร็วและแม่นขึ้น และมีความสนใจด้านภาพ/วิดีโอเป็นงานอดิเรก (ถ่ายรูป แต่งภาพ ตัดต่อ)
-
-
-
----
-
-
-
-# เป้าหมาย
+## เป้าหมาย
 
 
 
@@ -136,103 +68,7 @@
 
 
 
-# Skills
-
-
-
-ทักษะหลักรองรับ 2 บทบาท — BA ด้านวิเคราะห์ และ Frontend ด้านพัฒนา
-
-
-
-### Business Analyst
-
-- Requirement Analysis
-
-- Business Process
-
-- User Flow
-
-- Workflow Design
-
-- Wireframe
-
-- Documentation
-
-- Figma
-
-
-
-### Frontend
-
-- HTML
-
-- CSS
-
-- JavaScript
-
-- TypeScript
-
-- React
-
-- Next.js
-
-- Prisma ORM
-
-- MySQL
-
-
-
-### AI Tools
-
-- ChatGPT
-
-- Claude
-
-- Google Gemini
-
-- Cursor
-
-- NotebookLM
-
-- Prompt Engineering
-
-- AI-Assisted Coding
-
-
-
-### Photo & Video
-
-- noonook lm
-
-- Adobe Photoshop
-
-- Adobe Lightroom
-
-- Video Editing
-
-- CapCut
-
-- Adobe Premiere Pro
-
-
-
-### Soft Skills
-
-- Communication
-
-- Teamwork
-
-- Critical Thinking
-
-- Problem Solving
-
-
-
----
-
-
-
-# Projects
+# 02 — Projects
 
 
 
@@ -268,7 +104,47 @@ https://www.facebook.com/TeeMeGetUp
 
 
 
-# Contact
+# 03 — Skills
+
+
+
+ทักษะหลักรองรับ 2 บทบาท — BA ด้านวิเคราะห์ และ Frontend ด้านพัฒนา
+
+
+
+### Business Analyst
+
+- Requirement Analysis
+- Business Process
+- User Flow
+- Wireframe
+- Figma
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- TypeScript
+
+### ทักษะเสริม
+
+- ChatGPT
+- Cursor
+- Photoshop
+- noonook lm
+- Teamwork
+- Problem Solving
+
+
+
+---
+
+
+
+# 04 — Contact
 
 
 
@@ -303,5 +179,3 @@ https://www.facebook.com/TeeMeGetUp
 > "เปิดใจเรียนรู้ ลองทำ — ประสบการณ์ใหม่จะสอนให้เราโตเสมอ."
 
 ```
-
-

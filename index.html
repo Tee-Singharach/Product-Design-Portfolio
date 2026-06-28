@@ -39,10 +39,9 @@
   <header class="header" id="top">
     <nav class="nav container">
       <ul class="nav-links">
-        <li><a href="#projects">ผลงาน</a></li>
-        <li><a href="#work">สายงาน</a></li>
-        <li><a href="#skills">ทักษะ</a></li>
         <li><a href="#about">เกี่ยวกับ</a></li>
+        <li><a href="#projects">ผลงาน</a></li>
+        <li><a href="#skills">ทักษะ</a></li>
         <li><a href="#contact">ติดต่อ</a></li>
       </ul>
       <button class="nav-toggle" aria-label="เปิดเมนู" aria-expanded="false">
@@ -77,8 +76,8 @@
               ให้เป็นสิ่งที่ใช้งานได้จริง — Freelance ในทั้ง 2 บทบาท
             </p>
             <div class="hero-actions">
-              <a href="#projects" class="btn btn-primary">ดูผลงาน</a>
-              <a href="#contact" class="btn btn-outline">ติดต่อ</a>
+              <a href="#about" class="btn btn-primary">เกี่ยวกับฉัน</a>
+              <a href="#projects" class="btn btn-outline">ดูผลงาน</a>
             </div>
           </div>
           <div class="hero-photo-wrap">
@@ -91,11 +90,67 @@
       </div>
     </section>
 
+    <!-- About -->
+    <section class="section" id="about">
+      <div class="container">
+        <header class="section-header">
+          <span class="section-tag">01 — เกี่ยวกับ</span>
+          <h2>About Me</h2>
+          <p class="section-desc">Freelance BA & Frontend — อายุ 23 ปี จากศรีสะเกษ</p>
+        </header>
+
+        <div class="about-layout">
+          <div class="about-main">
+            <div class="about-text">
+              <p>
+                สวัสดีครับ ผมชื่อ <strong>สิงหราช งาสีแดง (ตี๋)</strong>
+                ทำงานในสาย <strong>Business Analyst</strong> และ <strong>Frontend Programmer</strong>
+                แบบ <strong>Freelance</strong> — โฟกัสที่การเข้าใจโจทย์ธุรกิจก่อน
+                แล้วนำไปพัฒนาเป็นเว็บแอปที่ใช้งานได้จริง
+              </p>
+              <p>
+                ชอบงานที่ต้องคิดทั้งฝั่งวิเคราะห์และฝั่ง dev ใช้เครื่องมือ AI ช่วยทำงานให้เร็วและแม่นขึ้น
+                และมีความสนใจด้านภาพ/วิดีโอเป็นงานอดิเรก (ถ่ายรูป แต่งภาพ ตัดต่อ)
+              </p>
+            </div>
+            <blockquote class="quote">
+              "เปิดใจเรียนรู้ ลองทำ — ประสบการณ์ใหม่จะสอนให้เราโตเสมอ."
+            </blockquote>
+          </div>
+
+          <aside class="profile-card">
+            <h3 class="profile-card-title">ข้อมูลส่วนตัว</h3>
+            <ul class="profile-list">
+              <li><span>ชื่อ-นามสกุล</span><strong>นายสิงหราช งาสีแดง</strong></li>
+              <li><span>ชื่อเล่น</span><strong>ตี๋</strong></li>
+              <li><span>ตำแหน่ง</span><strong>BA • Frontend Programmer</strong></li>
+              <li><span>สถานะ</span><strong>Freelance (ฟรีแลนซ์)</strong></li>
+              <li><span>อายุ</span><strong>23 ปี</strong></li>
+              <li><span>วันเกิด</span><strong>12 สิงหาคม 2545</strong></li>
+              <li class="profile-list-wide"><span>ที่อยู่</span><strong>157/1216 หมู่ 6 ตำบลโพธิ์ อำเภอเมืองศรีสะเกษ จังหวัดศรีสะเกษ</strong></li>
+              <li class="profile-list-wide"><span>งานอดิเรก</span><strong>ถ่ายรูป • เขียนโค้ด • ออกแบบ</strong></li>
+            </ul>
+          </aside>
+        </div>
+
+        <div class="goal-card">
+          <span class="card-icon card-icon-light" aria-hidden="true"><svg class="icon"><use href="#icon-target"></use></svg></span>
+          <div>
+            <span class="section-tag section-tag-light">เป้าหมาย</span>
+            <p>
+              เชื่อว่า<strong>ประสบการณ์ใหม่จะสอนให้เราโตเสมอ</strong> — เปิดใจเรียนรู้
+              ลองทำ และพัฒนาตัวเองไปเรื่อย ๆ ไม่ว่าจะอยู่ที่ไหนหรือเจอโจทย์แบบไหน
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Projects -->
     <section class="section section-alt" id="projects">
       <div class="container">
         <header class="section-header">
-          <span class="section-tag">01 — ผลงาน</span>
+          <span class="section-tag">02 — ผลงาน</span>
           <h2>Projects</h2>
           <p class="section-desc">งานจริงที่ทำในบทบาท BA & Frontend — ออกแบบ flow แล้วลงมือพัฒนาให้ใช้งานได้บนจอจริง</p>
         </header>
@@ -222,42 +277,8 @@
       </div>
     </section>
 
-    <!-- Work -->
-    <section class="section" id="work">
-      <div class="container">
-        <header class="section-header">
-          <span class="section-tag">02 — สายงาน</span>
-          <h2>What I Do</h2>
-          <p class="section-desc">เชื่อม 2 บทบาทเข้าด้วยกัน — จากเข้าใจธุรกิจ สู่เว็บที่ใช้งานได้จริง</p>
-        </header>
-        <ol class="work-flow work-flow-compact">
-          <li class="work-step">
-            <span class="work-step-num">01</span>
-            <div>
-              <h3>วิเคราะห์</h3>
-              <p>เก็บ requirement เข้าใจ business process และความต้องการผู้ใช้</p>
-            </div>
-          </li>
-          <li class="work-step">
-            <span class="work-step-num">02</span>
-            <div>
-              <h3>ออกแบบ</h3>
-              <p>สร้าง user flow, workflow และ wireframe ให้ทีมเห็นภาพเดียวกัน</p>
-            </div>
-          </li>
-          <li class="work-step">
-            <span class="work-step-num">03</span>
-            <div>
-              <h3>พัฒนา</h3>
-              <p>เขียน Frontend ด้วย React / Next.js ให้ตอบโจทย์ที่วิเคราะห์ไว้</p>
-            </div>
-          </li>
-        </ol>
-      </div>
-    </section>
-
     <!-- Skills -->
-    <section class="section section-alt" id="skills">
+    <section class="section" id="skills">
       <div class="container">
         <header class="section-header">
           <span class="section-tag">03 — ทักษะ</span>
@@ -309,67 +330,11 @@
       </div>
     </section>
 
-    <!-- About -->
-    <section class="section" id="about">
-      <div class="container">
-        <header class="section-header">
-          <span class="section-tag">04 — เกี่ยวกับ</span>
-          <h2>About Me</h2>
-          <p class="section-desc">Freelance BA & Frontend — อายุ 23 ปี จากศรีสะเกษ</p>
-        </header>
-
-        <div class="about-layout">
-          <div class="about-main">
-            <div class="about-text">
-              <p>
-                สวัสดีครับ ผมชื่อ <strong>สิงหราช งาสีแดง (ตี๋)</strong>
-                ทำงานในสาย <strong>Business Analyst</strong> และ <strong>Frontend Programmer</strong>
-                แบบ <strong>Freelance</strong> — โฟกัสที่การเข้าใจโจทย์ธุรกิจก่อน
-                แล้วนำไปพัฒนาเป็นเว็บแอปที่ใช้งานได้จริง
-              </p>
-              <p>
-                ชอบงานที่ต้องคิดทั้งฝั่งวิเคราะห์และฝั่ง dev ใช้เครื่องมือ AI ช่วยทำงานให้เร็วและแม่นขึ้น
-                และมีความสนใจด้านภาพ/วิดีโอเป็นงานอดิเรก (ถ่ายรูป แต่งภาพ ตัดต่อ)
-              </p>
-            </div>
-            <blockquote class="quote">
-              "เปิดใจเรียนรู้ ลองทำ — ประสบการณ์ใหม่จะสอนให้เราโตเสมอ."
-            </blockquote>
-          </div>
-
-          <aside class="profile-card">
-            <h3 class="profile-card-title">ข้อมูลส่วนตัว</h3>
-            <ul class="profile-list">
-              <li><span>ชื่อ-นามสกุล</span><strong>นายสิงหราช งาสีแดง</strong></li>
-              <li><span>ชื่อเล่น</span><strong>ตี๋</strong></li>
-              <li><span>ตำแหน่ง</span><strong>BA • Frontend Programmer</strong></li>
-              <li><span>สถานะ</span><strong>Freelance (ฟรีแลนซ์)</strong></li>
-              <li><span>อายุ</span><strong>23 ปี</strong></li>
-              <li><span>วันเกิด</span><strong>12 สิงหาคม 2545</strong></li>
-              <li class="profile-list-wide"><span>ที่อยู่</span><strong>157/1216 หมู่ 6 ตำบลโพธิ์ อำเภอเมืองศรีสะเกษ จังหวัดศรีสะเกษ</strong></li>
-              <li class="profile-list-wide"><span>งานอดิเรก</span><strong>ถ่ายรูป • เขียนโค้ด • ออกแบบ</strong></li>
-            </ul>
-          </aside>
-        </div>
-
-        <div class="goal-card">
-          <span class="card-icon card-icon-light" aria-hidden="true"><svg class="icon"><use href="#icon-target"></use></svg></span>
-          <div>
-            <span class="section-tag section-tag-light">เป้าหมาย</span>
-            <p>
-              เชื่อว่า<strong>ประสบการณ์ใหม่จะสอนให้เราโตเสมอ</strong> — เปิดใจเรียนรู้
-              ลองทำ และพัฒนาตัวเองไปเรื่อย ๆ ไม่ว่าจะอยู่ที่ไหนหรือเจอโจทย์แบบไหน
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Contact -->
     <section class="section section-alt" id="contact">
       <div class="container">
         <header class="section-header section-header-center">
-          <span class="section-tag">05 — ติดต่อ</span>
+          <span class="section-tag">04 — ติดต่อ</span>
           <h2>Contact</h2>
           <p class="section-desc">พร้อมรับโอกาสใหม่ ๆ และ collaboration</p>
         </header>
