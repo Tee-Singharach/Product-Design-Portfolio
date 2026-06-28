@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "generate:qr": "node scripts/generate-qr.mjs"
+  },
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
+}

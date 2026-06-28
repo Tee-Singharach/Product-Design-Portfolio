@@ -1,0 +1,4 @@
+node_modules/
+
+# Generated locally — run: npm run generate:qr
+images/portfolio-qr.png

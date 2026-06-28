@@ -23,6 +23,7 @@
   --shadow-md: 0 8px 32px rgba(26, 22, 20, 0.08);
   --shadow-lg: 0 20px 56px rgba(26, 22, 20, 0.12);
   --font: "Plus Jakarta Sans", "Noto Sans Thai", sans-serif;
+  --font-root: 18px;
   --header-h: 64px;
   --container: 1040px;
   --transition: 0.22s ease;
@@ -35,11 +36,12 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: var(--header-h);
   -webkit-text-size-adjust: 100%;
+  font-size: var(--font-root);
 }
 
 body {
   font-family: var(--font);
-  font-size: clamp(15px, 1.6vw, 16px);
+  font-size: clamp(0.9375rem, 1.6vw, 1rem);
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
